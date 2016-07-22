@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+	margin: 10px;
+}
+.bloque{
+	width: 400px;
+	height: 400px;
+	background-color: #ED462F;
+	position: static;
+}
+.morado{
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	position: relative;
+	left: 100px;
+	top: 100px;
+	margin: 0px;
+
+}
+.amarillo{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	position: absolute;
+	margin: 0px;
+}

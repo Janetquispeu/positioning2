@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+}
+.bloque{
+	width: 400px;
+	height: 400px;
+	background-color: #0048FB;
+	position: static;
+	margin: 10px;
+
+}
+.verde{
+	width: 200px;
+	height: 200px;
+	background-color: #387804;
+	left: 110px;
+	top:110px;
+	position: absolute;
+	margin: 0px;
+	
+}
+.negro{
+	width: 100px;
+	height: 100px;
+	background-color: #000000;
+	position: relative;
+	margin: 0px;
+}
